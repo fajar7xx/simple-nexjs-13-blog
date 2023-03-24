@@ -12,6 +12,7 @@ https://simple-nexjs-13-blog.vercel.app/
 ## Screenshots
 
 ![Homepage](/screenshot/homepage.png)
+![BLog](/screenshot/homepage.png)
 
 
 ## Authors
